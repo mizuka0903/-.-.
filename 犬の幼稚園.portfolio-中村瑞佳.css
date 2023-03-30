@@ -1,6 +1,6 @@
 @charset "UTF-8";
 body{background-color: #ffe0b6}
-header{background-image: https://raw.githubusercontent.com/mizuka0903/-.-./e87a732057629ee834665670fd847bb9464bfa7b/%E7%8A%AC%E3%81%AE%E5%B9%BC%E7%A8%9A%E5%9C%92header.jpg);background-repeat: no-repeat;background-size: cover;height: 70vh;}
+header{background-image:url(https://raw.githubusercontent.com/mizuka0903/-.-./e87a732057629ee834665670fd847bb9464bfa7b/%E7%8A%AC%E3%81%AE%E5%B9%BC%E7%A8%9A%E5%9C%92header.jpg);background-repeat: no-repeat;background-size: cover;height: 70vh;}
 h1{text-align: center;}
 html{font-size: 100%;}
 h1{font-family:'Alkatra', cursive;font-size: 5rem;color: #ffffff;}
